@@ -1,0 +1,17 @@
+genre_list,count,mean
+Horror,542,3.765
+Romance,935,3.561
+Thriller,1483,3.552
+Musical,381,3.538
+Animation,1210,3.524
+Crime,1111,3.495
+Comedy,1855,3.481
+War,626,3.468
+Mystery,572,3.427
+Sci-Fi,1555,3.39
+Drama,3310,3.377
+Action,1948,3.357
+Children,1302,3.335
+Adventure,2320,3.299
+Fantasy,1141,3.259
+History,133,3.083

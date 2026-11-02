@@ -1,0 +1,63 @@
+movieId,title,genres
+1,The Shawshank Redemption (1994),Drama
+2,The Godfather (1972),Crime|Drama
+3,The Dark Knight (2008),Action|Crime|Drama
+4,Pulp Fiction (1994),Crime|Drama
+5,Forrest Gump (1994),Comedy|Drama|Romance
+6,Inception (2010),Action|Sci-Fi|Thriller
+7,The Matrix (1999),Action|Sci-Fi
+8,Fight Club (1999),Drama|Thriller
+9,Interstellar (2014),Adventure|Drama|Sci-Fi
+10,Gladiator (2000),Action|Adventure|Drama
+11,Toy Story (1995),Animation|Children|Comedy
+12,The Lion King (1994),Animation|Children|Drama
+13,Finding Nemo (2003),Animation|Children|Comedy
+14,Shrek (2001),Animation|Comedy|Fantasy
+15,Up (2009),Animation|Adventure|Children
+16,Inside Out (2015),Animation|Children|Comedy
+17,Titanic (1997),Drama|Romance
+18,The Notebook (2004),Drama|Romance
+19,La La Land (2016),Comedy|Drama|Musical|Romance
+20,Pride & Prejudice (2005),Drama|Romance
+21,The Hangover (2009),Comedy
+22,Superbad (2007),Comedy
+23,Bridesmaids (2011),Comedy|Romance
+24,Step Brothers (2008),Comedy
+25,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+26,Avatar (2009),Action|Adventure|Sci-Fi
+27,Star Wars: A New Hope (1977),Action|Adventure|Sci-Fi
+28,Blade Runner 2049 (2017),Drama|Sci-Fi
+29,The Avengers (2012),Action|Adventure|Sci-Fi
+30,Iron Man (2008),Action|Adventure|Sci-Fi
+31,The Silence of the Lambs (1991),Crime|Horror|Thriller
+32,Se7en (1995),Crime|Mystery|Thriller
+33,Get Out (2017),Horror|Mystery|Thriller
+34,The Conjuring (2013),Horror|Mystery|Thriller
+35,A Quiet Place (2018),Drama|Horror|Sci-Fi
+36,Psycho (1960),Horror|Thriller
+37,Lord of the Rings: Fellowship (2001),Adventure|Fantasy
+38,Harry Potter: Sorcerer's Stone (2001),Adventure|Children|Fantasy
+39,Pirates of the Caribbean (2003),Action|Adventure|Fantasy
+40,The Princess Bride (1987),Adventure|Comedy|Fantasy|Romance
+41,Schindler's List (1993),Drama|War
+42,Saving Private Ryan (1998),Action|Drama|War
+43,Braveheart (1995),Action|Drama|War
+44,1917 (2019),Action|Drama|War
+45,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi
+46,John Wick (2014),Action|Crime|Thriller
+47,Die Hard (1988),Action|Thriller
+48,Casablanca (1942),Drama|Romance|War
+49,Parasite (2019),Comedy|Drama|Thriller
+50,Spirited Away (2001),Animation|Adventure|Fantasy
+51,Coco (2017),Animation|Children|Musical
+52,Whiplash (2014),Drama|Musical
+53,The Social Network (2010),Drama
+54,Knives Out (2019),Comedy|Crime|Mystery
+55,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+56,Ratatouille (2007),Animation|Children|Comedy
+57,Mamma Mia! (2008),Comedy|Musical|Romance
+58,Zodiac (2007),Crime|Mystery|Thriller
+59,The Prestige (2006),Drama|Mystery|Sci-Fi
+60,Gone Girl (2014),Drama|Mystery|Thriller
+61,Dune (2021),Action|Adventure|Sci-Fi
+62,Oppenheimer (2023),Drama|History

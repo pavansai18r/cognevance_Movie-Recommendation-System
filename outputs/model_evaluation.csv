@@ -1,0 +1,4 @@
+,RMSE,MAE
+Global mean,0.8665,0.6886
+User-based CF,0.7036,0.5586
+Item-based CF,0.6813,0.5446
