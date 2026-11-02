@@ -37,8 +37,8 @@ screenshots/       add terminal/chart screenshots here
 
 ## results 
                   RMSE     MAE
-Global mean    0.8665  0.6886
-User-based CF  0.7036  0.5586
-Item-based CF  0.6813  0.5446
+Global mean     0.8665    0.6886
+User-based CF   0.7036    0.5586
+Item-based CF   0.6813    0.5446
 
 See `outputs/recommendations.txt` for per-user recommendations and `outputs/charts/` for visualisations.
